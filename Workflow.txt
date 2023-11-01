@@ -1,0 +1,8 @@
+Kaggle -> Connect EC2 to vscode and running Apache Airflow -> Glue Workflow
+
+This is the ETL process:
+With the transformation I have removed the column count, country, state, lat long, latitude, longtitude,cltv.
+I have changed the type of the data.
+
+Admin Username AWS RedShift -> https://us-east-1.console.aws.amazon.com/iamv2/home#/security_credentials/access-key-wizard
+Admin user password -> https://us-east-1.console.aws.amazon.com/iamv2/home#/security_credentials/access-key-wizard
