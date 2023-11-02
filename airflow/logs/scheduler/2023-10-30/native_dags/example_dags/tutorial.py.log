@@ -1,0 +1,781 @@
+[2023-10-30T03:29:12.714+0000] {processor.py:157} INFO - Started process (PID=4605) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:29:12.715+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:29:12.715+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.715+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:29:12.722+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:29:12.933+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.933+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-30T03:29:12.947+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.947+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-30T03:29:12.956+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.956+0000] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-30T03:29:12.956+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.956+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:29:12.966+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.966+0000] {dag.py:2963} INFO - Creating ORM DAG for tutorial
+[2023-10-30T03:29:12.974+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:29:12.974+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:29:12.974380+00:00, run_after=2023-10-30T03:29:12.974380+00:00
+[2023-10-30T03:29:12.995+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.285 seconds
+[2023-10-30T03:30:04.107+0000] {processor.py:157} INFO - Started process (PID=4652) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:04.108+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:30:04.109+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:04.109+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:04.117+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:04.134+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:04.134+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:30:04.154+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:04.154+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:30:04.154325+00:00, run_after=2023-10-30T03:30:04.154325+00:00
+[2023-10-30T03:30:04.183+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2023-10-30T03:30:50.338+0000] {processor.py:157} INFO - Started process (PID=4700) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:50.339+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:30:50.340+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:50.339+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:50.347+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:30:50.364+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:50.364+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:30:50.384+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:30:50.384+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:30:50.384399+00:00, run_after=2023-10-30T03:30:50.384399+00:00
+[2023-10-30T03:30:50.407+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:31:35.735+0000] {processor.py:157} INFO - Started process (PID=4747) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:31:35.736+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:31:35.737+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:31:35.737+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:31:35.745+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:31:35.762+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:31:35.762+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:31:35.783+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:31:35.783+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:31:35.783008+00:00, run_after=2023-10-30T03:31:35.783008+00:00
+[2023-10-30T03:31:35.808+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-10-30T03:32:14.141+0000] {processor.py:157} INFO - Started process (PID=4786) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:32:14.144+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:32:14.145+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:32:14.145+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:32:14.153+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:32:14.171+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:32:14.171+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:32:14.192+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:32:14.192+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:32:14.192152+00:00, run_after=2023-10-30T03:32:14.192152+00:00
+[2023-10-30T03:32:14.215+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2023-10-30T03:33:01.027+0000] {processor.py:157} INFO - Started process (PID=4835) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:01.029+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:33:01.029+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:01.029+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:01.037+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:01.055+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:01.055+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:33:01.076+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:01.075+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:33:01.075488+00:00, run_after=2023-10-30T03:33:01.075488+00:00
+[2023-10-30T03:33:01.098+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:33:44.371+0000] {processor.py:157} INFO - Started process (PID=4880) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:44.372+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:33:44.373+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:44.373+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:44.381+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:33:44.398+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:44.398+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:33:44.419+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:33:44.418+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:33:44.418705+00:00, run_after=2023-10-30T03:33:44.418705+00:00
+[2023-10-30T03:33:44.440+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:34:30.376+0000] {processor.py:157} INFO - Started process (PID=4929) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:34:30.378+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:34:30.379+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:34:30.378+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:34:30.387+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:34:30.405+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:34:30.404+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:34:30.426+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:34:30.426+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:34:30.425898+00:00, run_after=2023-10-30T03:34:30.425898+00:00
+[2023-10-30T03:34:30.448+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:35:17.102+0000] {processor.py:157} INFO - Started process (PID=4977) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:35:17.103+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:35:17.104+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:35:17.104+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:35:17.112+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:35:17.130+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:35:17.129+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:35:17.152+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:35:17.152+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:35:17.151719+00:00, run_after=2023-10-30T03:35:17.151719+00:00
+[2023-10-30T03:35:17.175+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-10-30T03:36:02.629+0000] {processor.py:157} INFO - Started process (PID=5024) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:02.631+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:36:02.631+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:02.631+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:02.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:02.656+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:02.656+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:36:02.675+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:02.675+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:36:02.675363+00:00, run_after=2023-10-30T03:36:02.675363+00:00
+[2023-10-30T03:36:02.697+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2023-10-30T03:36:47.104+0000] {processor.py:157} INFO - Started process (PID=5070) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:47.105+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:36:47.106+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:47.106+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:47.114+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:36:47.131+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:47.131+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:36:47.152+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:36:47.152+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:36:47.152085+00:00, run_after=2023-10-30T03:36:47.152085+00:00
+[2023-10-30T03:36:47.175+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:37:31.094+0000] {processor.py:157} INFO - Started process (PID=5116) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:37:31.096+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:37:31.097+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:37:31.097+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:37:31.105+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:37:31.122+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:37:31.122+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:37:31.143+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:37:31.143+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:37:31.143064+00:00, run_after=2023-10-30T03:37:31.143064+00:00
+[2023-10-30T03:37:31.166+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:38:18.286+0000] {processor.py:157} INFO - Started process (PID=5164) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:38:18.287+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:38:18.288+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:38:18.288+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:38:18.297+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:38:18.328+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:38:18.328+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:38:18.350+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:38:18.350+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:38:18.349818+00:00, run_after=2023-10-30T03:38:18.349818+00:00
+[2023-10-30T03:38:18.372+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2023-10-30T03:39:03.728+0000] {processor.py:157} INFO - Started process (PID=5213) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:39:03.730+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:39:03.730+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:39:03.730+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:39:03.738+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:39:03.755+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:39:03.755+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:39:03.775+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:39:03.774+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:39:03.774604+00:00, run_after=2023-10-30T03:39:03.774604+00:00
+[2023-10-30T03:39:03.801+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T03:40:30.904+0000] {processor.py:157} INFO - Started process (PID=5276) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:40:30.905+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:40:30.906+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:40:30.906+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:40:30.914+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:40:30.923+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:40:30.922+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:40:31.058+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:40:31.057+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:40:31.057718+00:00, run_after=2023-10-30T03:40:31.057718+00:00
+[2023-10-30T03:40:31.078+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.178 seconds
+[2023-10-30T03:41:19.215+0000] {processor.py:157} INFO - Started process (PID=5323) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:41:19.217+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:41:19.218+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:41:19.217+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:41:19.226+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:41:19.243+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:41:19.243+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:41:19.263+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:41:19.263+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:41:19.263190+00:00, run_after=2023-10-30T03:41:19.263190+00:00
+[2023-10-30T03:41:19.286+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:42:04.703+0000] {processor.py:157} INFO - Started process (PID=5370) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:04.704+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:42:04.705+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:04.705+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:04.713+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:04.729+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:04.729+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:42:04.749+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:04.749+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:42:04.749159+00:00, run_after=2023-10-30T03:42:04.749159+00:00
+[2023-10-30T03:42:04.770+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2023-10-30T03:42:50.414+0000] {processor.py:157} INFO - Started process (PID=5418) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:50.415+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:42:50.416+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:50.416+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:50.424+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:42:50.441+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:50.441+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:42:50.461+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:42:50.461+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:42:50.460937+00:00, run_after=2023-10-30T03:42:50.460937+00:00
+[2023-10-30T03:42:50.483+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:43:37.762+0000] {processor.py:157} INFO - Started process (PID=5465) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:43:37.764+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:43:37.764+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:43:37.764+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:43:37.772+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:43:37.789+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:43:37.789+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:43:37.809+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:43:37.809+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:43:37.809335+00:00, run_after=2023-10-30T03:43:37.809335+00:00
+[2023-10-30T03:43:37.831+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:44:22.868+0000] {processor.py:157} INFO - Started process (PID=5514) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:44:22.870+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:44:22.871+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:44:22.870+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:44:22.879+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:44:22.895+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:44:22.895+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:44:22.916+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:44:22.915+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:44:22.915573+00:00, run_after=2023-10-30T03:44:22.915573+00:00
+[2023-10-30T03:44:22.938+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:45:09.563+0000] {processor.py:157} INFO - Started process (PID=5800) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:09.564+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:45:09.565+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:09.565+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:09.573+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:09.590+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:09.590+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:45:09.611+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:09.610+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:45:09.610650+00:00, run_after=2023-10-30T03:45:09.610650+00:00
+[2023-10-30T03:45:09.632+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:45:50.480+0000] {processor.py:157} INFO - Started process (PID=5845) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:50.482+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:45:50.483+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:50.482+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:50.490+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:45:50.507+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:50.507+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:45:50.527+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:45:50.527+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:45:50.527002+00:00, run_after=2023-10-30T03:45:50.527002+00:00
+[2023-10-30T03:45:50.549+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:46:33.609+0000] {processor.py:157} INFO - Started process (PID=5889) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:46:33.611+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:46:33.612+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:46:33.611+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:46:33.620+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:46:33.636+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:46:33.636+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:46:33.656+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:46:33.656+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:46:33.656023+00:00, run_after=2023-10-30T03:46:33.656023+00:00
+[2023-10-30T03:46:33.678+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:47:19.359+0000] {processor.py:157} INFO - Started process (PID=5935) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:19.360+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:47:19.361+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:19.361+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:19.369+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:19.386+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:19.386+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:47:19.406+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:19.406+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:47:19.406472+00:00, run_after=2023-10-30T03:47:19.406472+00:00
+[2023-10-30T03:47:19.429+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:47:55.795+0000] {processor.py:157} INFO - Started process (PID=5975) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:55.796+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:47:55.797+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:55.797+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:55.805+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:47:55.822+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:55.822+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:47:55.843+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:47:55.842+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:47:55.842581+00:00, run_after=2023-10-30T03:47:55.842581+00:00
+[2023-10-30T03:47:55.866+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:48:40.983+0000] {processor.py:157} INFO - Started process (PID=6023) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:48:40.985+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:48:40.986+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:48:40.985+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:48:40.994+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:48:41.011+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:48:41.011+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:48:41.032+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:48:41.031+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:48:41.031547+00:00, run_after=2023-10-30T03:48:41.031547+00:00
+[2023-10-30T03:48:41.055+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:49:25.897+0000] {processor.py:157} INFO - Started process (PID=6070) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:49:25.898+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:49:25.899+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:49:25.899+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:49:25.907+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:49:25.924+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:49:25.924+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:49:25.945+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:49:25.944+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:49:25.944685+00:00, run_after=2023-10-30T03:49:25.944685+00:00
+[2023-10-30T03:49:25.966+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:50:14.606+0000] {processor.py:157} INFO - Started process (PID=6119) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:14.607+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:50:14.608+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:14.608+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:14.616+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:14.633+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:14.632+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:50:14.652+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:14.652+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:50:14.652293+00:00, run_after=2023-10-30T03:50:14.652293+00:00
+[2023-10-30T03:50:14.674+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2023-10-30T03:50:54.677+0000] {processor.py:157} INFO - Started process (PID=6163) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:54.679+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:50:54.679+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:54.679+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:54.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:50:54.704+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:54.704+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:50:54.724+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:50:54.723+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:50:54.723700+00:00, run_after=2023-10-30T03:50:54.723700+00:00
+[2023-10-30T03:50:54.746+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:51:38.817+0000] {processor.py:157} INFO - Started process (PID=6209) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:51:38.818+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:51:38.819+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:51:38.818+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:51:38.827+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:51:38.843+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:51:38.843+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:51:38.863+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:51:38.863+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:51:38.863030+00:00, run_after=2023-10-30T03:51:38.863030+00:00
+[2023-10-30T03:51:38.885+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:52:26.523+0000] {processor.py:157} INFO - Started process (PID=6258) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:52:26.524+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:52:26.525+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:52:26.525+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:52:26.534+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:52:26.551+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:52:26.551+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:52:26.572+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:52:26.572+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:52:26.571952+00:00, run_after=2023-10-30T03:52:26.571952+00:00
+[2023-10-30T03:52:26.597+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-10-30T03:53:15.434+0000] {processor.py:157} INFO - Started process (PID=6307) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:15.436+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:53:15.437+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:15.436+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:15.445+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:15.462+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:15.461+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:53:15.482+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:15.482+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:53:15.482207+00:00, run_after=2023-10-30T03:53:15.482207+00:00
+[2023-10-30T03:53:15.505+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:53:59.845+0000] {processor.py:157} INFO - Started process (PID=6353) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:59.846+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:53:59.847+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:59.846+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:59.855+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:53:59.872+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:59.872+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:53:59.893+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:53:59.893+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:53:59.892803+00:00, run_after=2023-10-30T03:53:59.892803+00:00
+[2023-10-30T03:53:59.916+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T03:54:47.626+0000] {processor.py:157} INFO - Started process (PID=6402) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:54:47.628+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:54:47.629+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:54:47.629+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:54:47.637+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:54:47.654+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:54:47.654+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:54:47.675+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:54:47.674+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:54:47.674570+00:00, run_after=2023-10-30T03:54:47.674570+00:00
+[2023-10-30T03:54:47.698+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T03:55:39.578+0000] {processor.py:157} INFO - Started process (PID=6455) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:55:39.580+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:55:39.580+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:55:39.580+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:55:39.588+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:55:39.605+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:55:39.605+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:55:39.624+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:55:39.624+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:55:39.624344+00:00, run_after=2023-10-30T03:55:39.624344+00:00
+[2023-10-30T03:55:39.647+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:56:25.316+0000] {processor.py:157} INFO - Started process (PID=6504) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:56:25.317+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:56:25.318+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:56:25.318+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:56:25.326+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:56:25.342+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:56:25.342+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:56:25.362+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:56:25.362+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:56:25.361828+00:00, run_after=2023-10-30T03:56:25.361828+00:00
+[2023-10-30T03:56:25.384+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:57:11.189+0000] {processor.py:157} INFO - Started process (PID=6552) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:11.190+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:57:11.191+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:11.190+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:11.199+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:11.215+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:11.215+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:57:11.236+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:11.236+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:57:11.235865+00:00, run_after=2023-10-30T03:57:11.235865+00:00
+[2023-10-30T03:57:11.260+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T03:57:53.531+0000] {processor.py:157} INFO - Started process (PID=6599) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:53.532+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:57:53.533+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:53.533+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:53.541+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:57:53.557+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:53.557+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:57:53.577+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:57:53.577+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:57:53.577238+00:00, run_after=2023-10-30T03:57:53.577238+00:00
+[2023-10-30T03:57:53.599+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T03:58:39.231+0000] {processor.py:157} INFO - Started process (PID=6646) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:58:39.233+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:58:39.233+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:58:39.233+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:58:39.241+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:58:39.258+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:58:39.258+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:58:39.279+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:58:39.279+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:58:39.278899+00:00, run_after=2023-10-30T03:58:39.278899+00:00
+[2023-10-30T03:58:39.300+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T03:59:24.046+0000] {processor.py:157} INFO - Started process (PID=6692) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:59:24.048+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T03:59:24.048+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:59:24.048+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:59:24.056+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T03:59:24.073+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:59:24.073+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T03:59:24.093+0000] {logging_mixin.py:151} INFO - [2023-10-30T03:59:24.093+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T03:59:24.093083+00:00, run_after=2023-10-30T03:59:24.093083+00:00
+[2023-10-30T03:59:24.115+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:00:13.332+0000] {processor.py:157} INFO - Started process (PID=6742) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:13.333+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:00:13.334+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:13.334+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:13.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:13.360+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:13.360+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:00:13.381+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:13.381+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:00:13.381466+00:00, run_after=2023-10-30T04:00:13.381466+00:00
+[2023-10-30T04:00:13.407+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2023-10-30T04:00:56.183+0000] {processor.py:157} INFO - Started process (PID=6789) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:56.184+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:00:56.185+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:56.185+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:56.193+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:00:56.209+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:56.209+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:00:56.229+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:00:56.229+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:00:56.229265+00:00, run_after=2023-10-30T04:00:56.229265+00:00
+[2023-10-30T04:00:56.251+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:01:38.344+0000] {processor.py:157} INFO - Started process (PID=6833) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:01:38.346+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:01:38.347+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:01:38.346+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:01:38.355+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:01:38.372+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:01:38.372+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:01:38.393+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:01:38.393+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:01:38.393001+00:00, run_after=2023-10-30T04:01:38.393001+00:00
+[2023-10-30T04:01:38.417+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:02:26.147+0000] {processor.py:157} INFO - Started process (PID=6882) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:02:26.149+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:02:26.150+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:02:26.149+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:02:26.158+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:02:26.175+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:02:26.175+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:02:26.195+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:02:26.195+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:02:26.195089+00:00, run_after=2023-10-30T04:02:26.195089+00:00
+[2023-10-30T04:02:26.217+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:03:10.092+0000] {processor.py:157} INFO - Started process (PID=6928) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:10.093+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:03:10.094+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:10.094+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:10.102+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:10.120+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:10.120+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:03:10.141+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:10.141+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:03:10.140971+00:00, run_after=2023-10-30T04:03:10.140971+00:00
+[2023-10-30T04:03:10.165+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:03:56.332+0000] {processor.py:157} INFO - Started process (PID=6975) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:56.334+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:03:56.334+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:56.334+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:56.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:03:56.359+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:56.359+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:03:56.380+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:03:56.380+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:03:56.379725+00:00, run_after=2023-10-30T04:03:56.379725+00:00
+[2023-10-30T04:03:56.402+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:04:45.624+0000] {processor.py:157} INFO - Started process (PID=7024) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:04:45.625+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:04:45.626+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:04:45.625+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:04:45.634+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:04:45.650+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:04:45.650+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:04:45.670+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:04:45.670+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:04:45.669803+00:00, run_after=2023-10-30T04:04:45.669803+00:00
+[2023-10-30T04:04:45.691+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2023-10-30T04:05:31.188+0000] {processor.py:157} INFO - Started process (PID=7071) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:05:31.189+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:05:31.190+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:05:31.190+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:05:31.198+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:05:31.215+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:05:31.214+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:05:31.235+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:05:31.234+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:05:31.234577+00:00, run_after=2023-10-30T04:05:31.234577+00:00
+[2023-10-30T04:05:31.257+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:06:17.905+0000] {processor.py:157} INFO - Started process (PID=7121) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:06:17.906+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:06:17.907+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:06:17.906+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:06:17.915+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:06:17.932+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:06:17.931+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:06:17.952+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:06:17.952+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:06:17.952192+00:00, run_after=2023-10-30T04:06:17.952192+00:00
+[2023-10-30T04:06:17.974+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:07:02.016+0000] {processor.py:157} INFO - Started process (PID=7168) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:02.017+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:07:02.018+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:02.017+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:02.026+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:02.043+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:02.043+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:07:02.064+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:02.064+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:07:02.064001+00:00, run_after=2023-10-30T04:07:02.064001+00:00
+[2023-10-30T04:07:02.086+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:07:46.198+0000] {processor.py:157} INFO - Started process (PID=7214) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:46.199+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:07:46.200+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:46.200+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:46.208+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:07:46.225+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:46.225+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:07:46.247+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:07:46.246+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:07:46.246628+00:00, run_after=2023-10-30T04:07:46.246628+00:00
+[2023-10-30T04:07:46.271+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:08:33.049+0000] {processor.py:157} INFO - Started process (PID=7264) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:08:33.050+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:08:33.052+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:08:33.051+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:08:33.060+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:08:33.077+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:08:33.077+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:08:33.098+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:08:33.098+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:08:33.098016+00:00, run_after=2023-10-30T04:08:33.098016+00:00
+[2023-10-30T04:08:33.126+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds
+[2023-10-30T04:09:19.236+0000] {processor.py:157} INFO - Started process (PID=7311) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:09:19.238+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:09:19.239+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:09:19.238+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:09:19.247+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:09:19.264+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:09:19.264+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:09:19.284+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:09:19.284+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:09:19.284439+00:00, run_after=2023-10-30T04:09:19.284439+00:00
+[2023-10-30T04:09:19.312+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2023-10-30T04:10:03.928+0000] {processor.py:157} INFO - Started process (PID=7358) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:03.929+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:10:03.930+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:03.929+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:03.938+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:03.956+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:03.955+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:10:03.977+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:03.977+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:10:03.976736+00:00, run_after=2023-10-30T04:10:03.976736+00:00
+[2023-10-30T04:10:03.999+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:10:49.136+0000] {processor.py:157} INFO - Started process (PID=7404) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:49.138+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:10:49.139+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:49.138+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:49.148+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:10:49.165+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:49.165+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:10:49.186+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:10:49.186+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:10:49.185780+00:00, run_after=2023-10-30T04:10:49.185780+00:00
+[2023-10-30T04:10:49.209+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:11:29.386+0000] {processor.py:157} INFO - Started process (PID=7448) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:11:29.387+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:11:29.388+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:11:29.387+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:11:29.396+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:11:29.413+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:11:29.412+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:11:29.433+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:11:29.433+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:11:29.432852+00:00, run_after=2023-10-30T04:11:29.432852+00:00
+[2023-10-30T04:11:29.454+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:12:16.771+0000] {processor.py:157} INFO - Started process (PID=7497) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:16.772+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:12:16.773+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:16.773+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:16.781+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:16.799+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:16.799+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:12:16.820+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:16.820+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:12:16.820154+00:00, run_after=2023-10-30T04:12:16.820154+00:00
+[2023-10-30T04:12:16.843+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:12:59.110+0000] {processor.py:157} INFO - Started process (PID=7541) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:59.111+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:12:59.112+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:59.112+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:59.120+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:12:59.137+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:59.136+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:12:59.157+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:12:59.157+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:12:59.157347+00:00, run_after=2023-10-30T04:12:59.157347+00:00
+[2023-10-30T04:12:59.179+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:13:44.467+0000] {processor.py:157} INFO - Started process (PID=7590) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:13:44.468+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:13:44.469+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:13:44.469+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:13:44.477+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:13:44.495+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:13:44.494+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:13:44.515+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:13:44.515+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:13:44.515423+00:00, run_after=2023-10-30T04:13:44.515423+00:00
+[2023-10-30T04:13:44.541+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-10-30T04:14:31.834+0000] {processor.py:157} INFO - Started process (PID=7637) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:14:31.835+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:14:31.836+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:14:31.836+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:14:31.844+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:14:31.862+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:14:31.862+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:14:31.884+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:14:31.884+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:14:31.883785+00:00, run_after=2023-10-30T04:14:31.883785+00:00
+[2023-10-30T04:14:31.907+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-10-30T04:15:16.724+0000] {processor.py:157} INFO - Started process (PID=7685) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:16.725+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:15:16.726+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:16.726+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:16.734+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:16.751+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:16.750+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:15:16.771+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:16.771+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:15:16.770950+00:00, run_after=2023-10-30T04:15:16.770950+00:00
+[2023-10-30T04:15:16.793+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:15:59.568+0000] {processor.py:157} INFO - Started process (PID=7730) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:59.570+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:15:59.571+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:59.570+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:59.579+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:15:59.596+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:59.596+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:15:59.617+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:15:59.617+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:15:59.616786+00:00, run_after=2023-10-30T04:15:59.616786+00:00
+[2023-10-30T04:15:59.640+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:16:41.392+0000] {processor.py:157} INFO - Started process (PID=7777) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:16:41.393+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:16:41.394+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:16:41.394+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:16:41.402+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:16:41.419+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:16:41.419+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:16:41.439+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:16:41.439+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:16:41.439352+00:00, run_after=2023-10-30T04:16:41.439352+00:00
+[2023-10-30T04:16:41.462+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:17:27.619+0000] {processor.py:157} INFO - Started process (PID=7828) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:17:27.621+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:17:27.622+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:17:27.621+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:17:27.630+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:17:27.647+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:17:27.647+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:17:27.669+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:17:27.669+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:17:27.669025+00:00, run_after=2023-10-30T04:17:27.669025+00:00
+[2023-10-30T04:17:27.692+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:18:12.380+0000] {processor.py:157} INFO - Started process (PID=7876) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:12.381+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:18:12.382+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:12.382+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:12.390+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:12.408+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:12.408+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:18:12.429+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:12.429+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:18:12.428896+00:00, run_after=2023-10-30T04:18:12.428896+00:00
+[2023-10-30T04:18:12.452+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:18:58.668+0000] {processor.py:157} INFO - Started process (PID=7923) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:58.670+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:18:58.671+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:58.670+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:58.678+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:18:58.695+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:58.695+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:18:58.715+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:18:58.715+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:18:58.715050+00:00, run_after=2023-10-30T04:18:58.715050+00:00
+[2023-10-30T04:18:58.736+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2023-10-30T04:19:41.853+0000] {processor.py:157} INFO - Started process (PID=7969) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:19:41.855+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:19:41.856+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:19:41.855+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:19:41.864+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:19:41.881+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:19:41.881+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:19:41.902+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:19:41.902+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:19:41.902342+00:00, run_after=2023-10-30T04:19:41.902342+00:00
+[2023-10-30T04:19:41.925+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:20:28.426+0000] {processor.py:157} INFO - Started process (PID=8017) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:20:28.427+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:20:28.428+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:20:28.428+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:20:28.436+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:20:28.453+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:20:28.453+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:20:28.474+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:20:28.473+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:20:28.473577+00:00, run_after=2023-10-30T04:20:28.473577+00:00
+[2023-10-30T04:20:28.496+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:21:11.953+0000] {processor.py:157} INFO - Started process (PID=8066) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:11.955+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:21:11.956+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:11.955+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:11.964+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:11.981+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:11.981+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:21:12.003+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:12.002+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:21:12.002482+00:00, run_after=2023-10-30T04:21:12.002482+00:00
+[2023-10-30T04:21:12.024+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:21:55.265+0000] {processor.py:157} INFO - Started process (PID=8110) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:55.267+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:21:55.268+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:55.267+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:55.276+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:21:55.293+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:55.292+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:21:55.312+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:21:55.312+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:21:55.312472+00:00, run_after=2023-10-30T04:21:55.312472+00:00
+[2023-10-30T04:21:55.335+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:22:41.288+0000] {processor.py:157} INFO - Started process (PID=8157) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:22:41.289+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:22:41.290+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:22:41.290+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:22:41.298+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:22:41.315+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:22:41.315+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:22:41.335+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:22:41.335+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:22:41.335440+00:00, run_after=2023-10-30T04:22:41.335440+00:00
+[2023-10-30T04:22:41.357+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:23:23.623+0000] {processor.py:157} INFO - Started process (PID=8201) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:23:23.641+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:23:23.642+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:23:23.641+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:23:23.650+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:23:23.667+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:23:23.666+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:23:23.687+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:23:23.687+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:23:23.686773+00:00, run_after=2023-10-30T04:23:23.686773+00:00
+[2023-10-30T04:23:23.710+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2023-10-30T04:24:11.097+0000] {processor.py:157} INFO - Started process (PID=8250) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:11.098+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:24:11.099+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:11.098+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:11.107+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:11.124+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:11.124+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:24:11.146+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:11.145+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:24:11.145661+00:00, run_after=2023-10-30T04:24:11.145661+00:00
+[2023-10-30T04:24:11.168+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:24:52.433+0000] {processor.py:157} INFO - Started process (PID=8293) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:52.435+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:24:52.435+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:52.435+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:52.444+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:24:52.461+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:52.461+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:24:52.482+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:24:52.481+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:24:52.481632+00:00, run_after=2023-10-30T04:24:52.481632+00:00
+[2023-10-30T04:24:52.504+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:25:36.028+0000] {processor.py:157} INFO - Started process (PID=8344) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:25:36.030+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:25:36.031+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:25:36.030+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:25:36.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:25:36.056+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:25:36.056+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:25:36.078+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:25:36.078+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:25:36.077885+00:00, run_after=2023-10-30T04:25:36.077885+00:00
+[2023-10-30T04:25:36.100+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:26:21.281+0000] {processor.py:157} INFO - Started process (PID=8390) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:26:21.282+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:26:21.283+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:26:21.283+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:26:21.291+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:26:21.308+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:26:21.308+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:26:21.328+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:26:21.328+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:26:21.328027+00:00, run_after=2023-10-30T04:26:21.328027+00:00
+[2023-10-30T04:26:21.350+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:27:04.687+0000] {processor.py:157} INFO - Started process (PID=8439) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:04.689+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:27:04.690+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:04.689+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:04.698+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:04.714+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:04.714+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:27:04.735+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:04.735+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:27:04.734826+00:00, run_after=2023-10-30T04:27:04.734826+00:00
+[2023-10-30T04:27:04.758+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:27:52.279+0000] {processor.py:157} INFO - Started process (PID=8489) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:52.280+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:27:52.281+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:52.281+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:52.289+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:27:52.306+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:52.306+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:27:52.326+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:27:52.326+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:27:52.326412+00:00, run_after=2023-10-30T04:27:52.326412+00:00
+[2023-10-30T04:27:52.348+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:28:36.352+0000] {processor.py:157} INFO - Started process (PID=8535) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:28:36.353+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:28:36.354+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:28:36.354+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:28:36.362+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:28:36.379+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:28:36.379+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:28:36.400+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:28:36.400+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:28:36.399892+00:00, run_after=2023-10-30T04:28:36.399892+00:00
+[2023-10-30T04:28:36.422+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:29:22.663+0000] {processor.py:157} INFO - Started process (PID=8582) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:29:22.665+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:29:22.665+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:29:22.665+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:29:22.673+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:29:22.694+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:29:22.694+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:29:22.714+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:29:22.714+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:29:22.714083+00:00, run_after=2023-10-30T04:29:22.714083+00:00
+[2023-10-30T04:29:22.736+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:30:07.722+0000] {processor.py:157} INFO - Started process (PID=8631) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:07.728+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:30:07.729+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:07.729+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:07.737+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:07.755+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:07.755+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:30:07.776+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:07.776+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:30:07.775803+00:00, run_after=2023-10-30T04:30:07.775803+00:00
+[2023-10-30T04:30:07.800+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.081 seconds
+[2023-10-30T04:30:48.880+0000] {processor.py:157} INFO - Started process (PID=8675) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:48.881+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:30:48.882+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:48.882+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:48.890+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:30:48.907+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:48.907+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:30:48.927+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:30:48.927+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:30:48.926749+00:00, run_after=2023-10-30T04:30:48.926749+00:00
+[2023-10-30T04:30:48.950+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:31:31.711+0000] {processor.py:157} INFO - Started process (PID=8719) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:31:31.712+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:31:31.713+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:31:31.713+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:31:31.721+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:31:31.738+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:31:31.738+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:31:31.758+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:31:31.758+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:31:31.758416+00:00, run_after=2023-10-30T04:31:31.758416+00:00
+[2023-10-30T04:31:31.780+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:32:19.549+0000] {processor.py:157} INFO - Started process (PID=8767) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:32:19.550+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:32:19.551+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:32:19.551+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:32:19.559+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:32:19.576+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:32:19.576+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:32:19.596+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:32:19.596+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:32:19.596133+00:00, run_after=2023-10-30T04:32:19.596133+00:00
+[2023-10-30T04:32:19.618+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:33:04.973+0000] {processor.py:157} INFO - Started process (PID=8815) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:04.975+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:33:04.975+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:04.975+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:04.983+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:05.000+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:05.000+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:33:05.020+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:05.020+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:33:05.020365+00:00, run_after=2023-10-30T04:33:05.020365+00:00
+[2023-10-30T04:33:05.043+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:33:51.787+0000] {processor.py:157} INFO - Started process (PID=8862) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:51.789+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:33:51.789+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:51.789+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:51.798+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:33:51.814+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:51.814+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:33:51.835+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:33:51.835+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:33:51.834743+00:00, run_after=2023-10-30T04:33:51.834743+00:00
+[2023-10-30T04:33:51.857+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:34:34.179+0000] {processor.py:157} INFO - Started process (PID=8908) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:34:34.180+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:34:34.181+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:34:34.181+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:34:34.189+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:34:34.206+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:34:34.206+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:34:34.228+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:34:34.227+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:34:34.227507+00:00, run_after=2023-10-30T04:34:34.227507+00:00
+[2023-10-30T04:34:34.250+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:35:17.870+0000] {processor.py:157} INFO - Started process (PID=8954) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:35:17.871+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:35:17.872+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:35:17.871+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:35:17.880+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:35:17.897+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:35:17.897+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:35:17.919+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:35:17.918+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:35:17.918614+00:00, run_after=2023-10-30T04:35:17.918614+00:00
+[2023-10-30T04:35:17.941+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:36:06.724+0000] {processor.py:157} INFO - Started process (PID=9004) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:06.725+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:36:06.726+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:06.726+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:06.734+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:06.751+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:06.751+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:36:06.772+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:06.772+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:36:06.772366+00:00, run_after=2023-10-30T04:36:06.772366+00:00
+[2023-10-30T04:36:06.794+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:36:54.322+0000] {processor.py:157} INFO - Started process (PID=9053) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:54.323+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:36:54.324+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:54.324+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:54.333+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:36:54.350+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:54.350+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:36:54.371+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:36:54.371+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:36:54.371404+00:00, run_after=2023-10-30T04:36:54.371404+00:00
+[2023-10-30T04:36:54.395+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:37:40.986+0000] {processor.py:157} INFO - Started process (PID=9101) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:37:40.988+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:37:40.989+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:37:40.988+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:37:40.997+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:37:41.015+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:37:41.015+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:37:41.036+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:37:41.036+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:37:41.035914+00:00, run_after=2023-10-30T04:37:41.035914+00:00
+[2023-10-30T04:37:41.058+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:38:21.134+0000] {processor.py:157} INFO - Started process (PID=9145) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:38:21.135+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:38:21.136+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:38:21.136+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:38:21.145+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:38:21.162+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:38:21.162+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:38:21.184+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:38:21.183+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:38:21.183680+00:00, run_after=2023-10-30T04:38:21.183680+00:00
+[2023-10-30T04:38:21.208+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2023-10-30T04:39:04.732+0000] {processor.py:157} INFO - Started process (PID=9192) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:04.734+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:39:04.734+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:04.734+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:04.742+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:04.759+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:04.759+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:39:04.779+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:04.779+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:39:04.779376+00:00, run_after=2023-10-30T04:39:04.779376+00:00
+[2023-10-30T04:39:04.801+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:39:48.663+0000] {processor.py:157} INFO - Started process (PID=9239) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:48.665+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:39:48.666+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:48.665+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:48.674+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:39:48.691+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:48.691+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:39:48.713+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:39:48.713+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:39:48.712991+00:00, run_after=2023-10-30T04:39:48.712991+00:00
+[2023-10-30T04:39:48.736+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:40:24.065+0000] {processor.py:157} INFO - Started process (PID=9279) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:40:24.067+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:40:24.068+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:40:24.067+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:40:24.076+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:40:24.093+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:40:24.092+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:40:24.113+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:40:24.113+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:40:24.112889+00:00, run_after=2023-10-30T04:40:24.112889+00:00
+[2023-10-30T04:40:24.135+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:41:09.395+0000] {processor.py:157} INFO - Started process (PID=9326) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:09.396+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:41:09.397+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:09.396+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:09.405+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:09.422+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:09.421+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:41:09.441+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:09.441+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:41:09.441408+00:00, run_after=2023-10-30T04:41:09.441408+00:00
+[2023-10-30T04:41:09.464+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:41:57.120+0000] {processor.py:157} INFO - Started process (PID=9374) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:57.121+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:41:57.122+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:57.122+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:57.130+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:41:57.148+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:57.147+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:41:57.168+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:41:57.168+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:41:57.168343+00:00, run_after=2023-10-30T04:41:57.168343+00:00
+[2023-10-30T04:41:57.191+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:42:42.804+0000] {processor.py:157} INFO - Started process (PID=9422) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:42:42.806+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:42:42.807+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:42:42.806+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:42:42.815+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:42:42.831+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:42:42.831+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:42:42.851+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:42:42.851+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:42:42.851068+00:00, run_after=2023-10-30T04:42:42.851068+00:00
+[2023-10-30T04:42:42.875+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:43:27.598+0000] {processor.py:157} INFO - Started process (PID=9469) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:43:27.601+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:43:27.602+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:43:27.601+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:43:27.610+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:43:27.627+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:43:27.626+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:43:27.647+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:43:27.647+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:43:27.647091+00:00, run_after=2023-10-30T04:43:27.647091+00:00
+[2023-10-30T04:43:27.669+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:44:10.061+0000] {processor.py:157} INFO - Started process (PID=9513) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:10.063+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:44:10.064+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:10.063+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:10.072+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:10.089+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:10.089+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:44:10.110+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:10.109+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:44:10.109652+00:00, run_after=2023-10-30T04:44:10.109652+00:00
+[2023-10-30T04:44:10.133+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2023-10-30T04:44:53.905+0000] {processor.py:157} INFO - Started process (PID=9559) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:53.906+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:44:53.907+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:53.907+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:53.915+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:44:53.933+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:53.932+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:44:53.953+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:44:53.953+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:44:53.953385+00:00, run_after=2023-10-30T04:44:53.953385+00:00
+[2023-10-30T04:44:53.976+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:45:44.097+0000] {processor.py:157} INFO - Started process (PID=9611) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:45:44.099+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:45:44.100+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:45:44.100+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:45:44.108+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:45:44.125+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:45:44.125+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:45:44.146+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:45:44.145+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:45:44.145697+00:00, run_after=2023-10-30T04:45:44.145697+00:00
+[2023-10-30T04:45:44.169+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-10-30T04:46:21.296+0000] {processor.py:157} INFO - Started process (PID=9648) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:46:21.297+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:46:21.298+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:46:21.297+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:46:21.306+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:46:21.323+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:46:21.323+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:46:21.343+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:46:21.343+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:46:21.343424+00:00, run_after=2023-10-30T04:46:21.343424+00:00
+[2023-10-30T04:46:21.366+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:47:07.651+0000] {processor.py:157} INFO - Started process (PID=9695) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:07.652+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:47:07.653+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:07.653+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:07.661+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:07.679+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:07.678+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:47:07.699+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:07.699+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:47:07.699310+00:00, run_after=2023-10-30T04:47:07.699310+00:00
+[2023-10-30T04:47:07.722+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:47:54.927+0000] {processor.py:157} INFO - Started process (PID=9743) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:54.929+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:47:54.929+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:54.929+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:54.937+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:47:54.954+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:54.954+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:47:54.974+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:47:54.974+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:47:54.974062+00:00, run_after=2023-10-30T04:47:54.974062+00:00
+[2023-10-30T04:47:54.995+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2023-10-30T04:48:44.418+0000] {processor.py:157} INFO - Started process (PID=9794) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:48:44.419+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:48:44.420+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:48:44.419+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:48:44.428+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:48:44.444+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:48:44.444+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:48:44.465+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:48:44.465+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:48:44.464817+00:00, run_after=2023-10-30T04:48:44.464817+00:00
+[2023-10-30T04:48:44.487+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:49:31.917+0000] {processor.py:157} INFO - Started process (PID=9844) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:49:31.931+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:49:31.932+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:49:31.931+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:49:31.940+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:49:31.958+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:49:31.958+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:49:31.980+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:49:31.979+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:49:31.979504+00:00, run_after=2023-10-30T04:49:31.979504+00:00
+[2023-10-30T04:49:32.009+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.095 seconds
+[2023-10-30T04:50:21.578+0000] {processor.py:157} INFO - Started process (PID=9894) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:50:21.581+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:50:21.582+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:50:21.581+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:50:21.589+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:50:21.607+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:50:21.607+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:50:21.627+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:50:21.627+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:50:21.627008+00:00, run_after=2023-10-30T04:50:21.627008+00:00
+[2023-10-30T04:50:21.669+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.095 seconds
+[2023-10-30T04:51:09.839+0000] {processor.py:157} INFO - Started process (PID=9947) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:09.841+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:51:09.841+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:09.841+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:09.849+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:09.867+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:09.867+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:51:09.887+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:09.887+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:51:09.887294+00:00, run_after=2023-10-30T04:51:09.887294+00:00
+[2023-10-30T04:51:09.910+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2023-10-30T04:51:55.032+0000] {processor.py:157} INFO - Started process (PID=9994) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:55.033+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:51:55.034+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:55.033+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:55.041+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:51:55.059+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:55.058+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:51:55.078+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:51:55.078+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:51:55.078500+00:00, run_after=2023-10-30T04:51:55.078500+00:00
+[2023-10-30T04:51:55.102+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2023-10-30T04:52:41.366+0000] {processor.py:157} INFO - Started process (PID=10042) to work on /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:52:41.368+0000] {processor.py:829} INFO - Processing file /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-10-30T04:52:41.369+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:52:41.368+0000] {dagbag.py:536} INFO - Filling up the DagBag from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:52:41.377+0000] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-10-30T04:52:41.394+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:52:41.393+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-30T04:52:41.414+0000] {logging_mixin.py:151} INFO - [2023-10-30T04:52:41.414+0000] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-10-29T04:52:41.414009+00:00, run_after=2023-10-30T04:52:41.414009+00:00
+[2023-10-30T04:52:41.437+0000] {processor.py:179} INFO - Processing /home/ubuntu/customer_churn_analysis/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
